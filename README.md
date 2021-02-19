@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 :nerd_face:
 ![](./fig/nowIknow.png)
 
 <img align="right" alt="GIF" height="160px" src="https://steamuserimages-a.akamaihd.net/ugc/92721123054346011/17668ACFDB9A5BDD28AF88B0ECC6D3D8E68271B2/" />
 
 
-### I'm [Adrian Huerta](https://adrhuerta.netlify.app/about/) :zipper_mouth_face:
+### I'm [Adrian Huerta](https://adrhuerta.netlify.app/about/) :bowtie:
 
 - 👨‍💻 Currently working on the development of climate gridded datasets and aridity.
 - 📚 Learning everything about hydro-climatology
